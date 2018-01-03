@@ -4,7 +4,5 @@ public class Hello{
 		private Integer empno
 		System.out.println("www.yook.com");
 		System.out.println("www.mldn.cn");
-		System.out.println("Hello Woor789+7ldfd*");
-		System.out.println("dsfdsfsds");
 	}
 }
