@@ -4,6 +4,6 @@ public class Hello{
 		private Integer empno
 		//System.out.println("www.yook.com");
 		System.out.println("www.mldn.cn");
-		System.out.println("www.newyear.cn");
+		System.out.println("www.yook.com");
 	}
 }
