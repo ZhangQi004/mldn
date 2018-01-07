@@ -4,4 +4,5 @@ public class Admin
 {
 	private Integer adminid;
 	Private int flag;
+	private Integer adminage;
 }
